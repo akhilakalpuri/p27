@@ -1,2 +1,1 @@
-# p27
-Newtons cradle
+# NC27
